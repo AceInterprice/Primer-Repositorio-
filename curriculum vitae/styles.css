@@ -1,0 +1,199 @@
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+
+.cv {
+max-width: 800px;
+margin: 20px auto;
+padding: 20px;
+background-color: rgb(251, 196, 148);
+border: 2px solid white;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-left: 150px;
+}
+
+.seccion {
+    padding: 20px;
+}
+
+h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+li {
+    margin-left: 5px;
+    font-family: Arial;
+    font-size: 15px;
+
+}
+body
+{
+    background: url(Fondo-C.png);
+    background-size: 140%;
+}
+#experiencia
+{
+border: 2px solid black;
+width: 770px;
+height: 40px;
+background-color: rgb(94, 90, 163);
+font-size: 20px;
+display: flex; /* Usar flexbox */
+padding: auto;
+justify-content: center;
+align-items: center;
+font-family: Arial Black;
+}
+#Datos
+{
+border: 2px solid black;
+width: 770px;
+height: 40px;
+background-color: rgb(94, 90, 163);
+font-size: 20px;
+display: flex; /* Usar flexbox */
+padding: auto;
+align-items: center; 
+justify-content: center; 
+font-family: Arial black;
+}
+
+#Educacion
+{
+border: 2px solid black;
+width: 770px;
+height: 40px;
+background-color: rgb(94, 90, 163);
+font-size: 20px;
+display: flex; /* Usar flexbox */
+padding: auto;
+justify-content: center;
+align-items: center;
+font-family: Arial black ;
+}
+#capacidad
+{
+    border: 2px solid black;
+    width: 770px;
+    height: 35px;
+    background-color: rgb(94, 90, 163);
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial Black;
+}
+#Lengua
+{
+    border: 2px solid black;
+    width: 770px;
+    height: 40px;
+    background-color: floralwhite;
+    font-size: 15px;
+        display: flex; /* Usar flexbox */
+        padding: auto;
+        align-items: center; /* Centrar verticalmente */ 
+}
+
+#otros
+{
+    border: 2px solid black;
+    width: 770px;
+    height: 40px;
+    background-color: floralwhite;
+    font-size: 15px;
+        display: flex; /* Usar flexbox */
+        padding: auto;
+        align-items: center; /* Centrar verticalmente */ 
+}
+#Capacidades
+{
+    border: 2px solid black;
+    width: 770px;
+    height: 70px;
+    background-color: floralwhite;
+    font-size: 15px;
+    display: flex; /* Usar flexbox */
+    padding: auto;
+    align-items: center; /* Centrar verticalmente */ 
+}
+#Permiso
+{
+    border: 2px solid black;
+    width: 770px;
+    height: 40px;
+    background-color: floralwhite;
+    font-size: 15px;
+        display: flex; /* Usar flexbox */
+        padding: auto;
+        align-items: center; /* Centrar verticalmente */ 
+}
+#informacion
+{
+    border: 2px solid black;
+    width: 770px;
+    height: 40px;
+    background-color: floralwhite;
+    font-size: 15px;
+        display: flex; /* Usar flexbox */
+        padding: auto;
+        align-items: center; /* Centrar verticalmente */ 
+}
+#Adicional{
+    border: 2px solid black;
+width: 770px;
+height: 40px;
+background-color: rgb(94, 90, 163);
+font-size: 20px;
+display: flex; /* Usar flexbox */
+padding: auto;
+justify-content: center;
+align-items: center;
+font-family: Arial black ;
+}
+#InfPersonal{
+    border: 2px solid black;
+    width: 770px;
+    height: 150px;
+    background-color: floralwhite;
+    font-size: 15px;
+    padding: auto;
+}
+
+#Trabajo{
+    border: 2px solid black;
+    width: 770px;
+    height: 80px;
+    background-color: floralwhite;
+    font-size: 15px;
+    padding: auto; 
+}
+
+#Conocimientos{
+    border: 2px solid black;
+    width: 770px;
+    height: 90px;
+    background-color: floralwhite;
+    font-size: 15px;
+    padding: auto;
+}
+p{
+    margin: 5px;
+}
+
+#mifoto{
+display: block;
+align-items:end; 
+width: 160px;
+height: 120px;
+padding: auto;
+margin-right: 120px;
+}
+
