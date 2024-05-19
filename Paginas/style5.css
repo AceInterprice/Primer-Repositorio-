@@ -1,0 +1,45 @@
+body{
+    background-color: grey;
+}
+h1{
+    font-family: Arial black;
+    font-size: 22px;
+    color: black;
+    text-align: center;
+}
+form{
+    font-family: Arial;
+    font-size: 18px;
+    color: black;
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #f8f4f4;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+input{
+    font-size: 15px;
+    width: 350px;
+    padding: 3px;
+}
+select{
+    font-size: 15px;
+    width: 350px;
+    padding: 3px;
+}
+#Color{
+    width: 50px;
+}
+#Nacimiento, #Expedicion, #Vencimiento, #fecha, #tiempo{
+    width: 150px;
+}
+
+#Semana, #Mes{
+    width: 200px;
+}
+#button{
+   margin-left: 45%;
+}
+
